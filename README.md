@@ -3,10 +3,11 @@ home: true
 layout: Blog
 icon: home
 title: 博客主页
-heroImage: /logo.svg
+heroImage: https://oss.itruke.com/doc/202209/1663036132-0f6b.png?x-oss-process=image/format,webp
 heroText: 技术宅男子
 heroFullScreen: true
 tagline: 乐于分享，乐于学习，奋进的码农
+bgImage: https://oss.itruke.com/doc/202209/1663035383-ffee.jpeg?x-oss-process=image/format,webp
 # projects:
 #   - icon: project
 #     name: 项目名称

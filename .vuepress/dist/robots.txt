@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://ruke.xyz/sitemap.xml
+Sitemap: http://ruke.xyz/sitemap.xml

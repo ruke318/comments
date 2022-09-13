@@ -3,23 +3,22 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://ruke.xyz",
+  hostname: "http://ruke.xyz",
 
   author: {
     name: "ruke",
-    url: "https://ruke.xyz",
+    url: "http://ruke.xyz",
   },
   // markdown: {
   //   code: {lineNumbers: false},
   // },
-
   iconAssets: "iconfont",
 
   editLink: false,
 
-  logo: "/logo.svg",
+  logo: "https://oss.itruke.com/doc/202209/1663036324-6c85.png?x-oss-process=image/format,webp",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "ruke318/comments",
 
   docsDir: "demo/src",
 
