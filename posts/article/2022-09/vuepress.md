@@ -126,5 +126,4 @@ yarn add -D vuepress # npm install -D vuepress
 yarn docs:dev # npm run docs:dev
 ```
 
-
-这里是内容。
+![](https://oss.itruke.com/doc/202209/1663071606-b3c8.png?x-oss-process=image/format,webp)

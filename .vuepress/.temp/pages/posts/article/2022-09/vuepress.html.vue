@@ -62,7 +62,7 @@
 <span class="token punctuation">}</span>
 </code></pre></div><h3 id="在本地启动服务器" tabindex="-1"><a class="header-anchor" href="#在本地启动服务器" aria-hidden="true">#</a> 在本地启动服务器</h3>
 <div class="language-bash ext-sh"><pre v-pre class="language-bash"><code><span class="token function">yarn</span> docs:dev <span class="token comment"># npm run docs:dev</span>
-</code></pre></div><p>这里是内容。</p>
+</code></pre></div><p><img src="https://oss.itruke.com/doc/202209/1663071606-b3c8.png?x-oss-process=image/format,webp" alt="" loading="lazy"></p>
 </div></template>
 
 
