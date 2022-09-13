@@ -7,15 +7,15 @@ import {
   renderChildren,
   renderItem,
   useSidebarItems
-} from "./chunk-WVAZIVSQ.js";
-import {
-  useThemeLocaleData
-} from "./chunk-MA3DN5KS.js";
-import "./chunk-A7R5LFMA.js";
+} from "./chunk-XFQJQHPT.js";
 import "./chunk-7HGX5PQF.js";
 import {
   Icon_default
 } from "./chunk-NQ3Z2KX2.js";
+import {
+  useThemeLocaleData
+} from "./chunk-MA3DN5KS.js";
+import "./chunk-A7R5LFMA.js";
 import "./chunk-JDJQ3254.js";
 import {
   RouterLink,

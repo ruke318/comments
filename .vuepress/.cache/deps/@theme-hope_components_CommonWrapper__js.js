@@ -1,6 +1,8 @@
 import {
   useSidebarItems
-} from "./chunk-WVAZIVSQ.js";
+} from "./chunk-XFQJQHPT.js";
+import "./chunk-7HGX5PQF.js";
+import "./chunk-NQ3Z2KX2.js";
 import {
   useMobile,
   usePageAuthor,
@@ -10,8 +12,6 @@ import {
   c,
   u
 } from "./chunk-A7R5LFMA.js";
-import "./chunk-7HGX5PQF.js";
-import "./chunk-NQ3Z2KX2.js";
 import {
   client_exports
 } from "./chunk-JDJQ3254.js";

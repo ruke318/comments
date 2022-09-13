@@ -21,7 +21,13 @@ import {
 } from "./chunk-TQJYOK4F.js";
 import {
   useSidebarItems
-} from "./chunk-WVAZIVSQ.js";
+} from "./chunk-XFQJQHPT.js";
+import {
+  AutoLink_default
+} from "./chunk-7HGX5PQF.js";
+import {
+  Icon_default
+} from "./chunk-NQ3Z2KX2.js";
 import {
   useAutoLink,
   useNavigate,
@@ -33,12 +39,6 @@ import {
   u,
   x
 } from "./chunk-A7R5LFMA.js";
-import {
-  AutoLink_default
-} from "./chunk-7HGX5PQF.js";
-import {
-  Icon_default
-} from "./chunk-NQ3Z2KX2.js";
 import {
   client_exports
 } from "./chunk-JDJQ3254.js";

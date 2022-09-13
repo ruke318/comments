@@ -5,6 +5,12 @@ import {
   resolveRepoType
 } from "./chunk-TQJYOK4F.js";
 import {
+  AutoLink_default
+} from "./chunk-7HGX5PQF.js";
+import {
+  Icon_default
+} from "./chunk-NQ3Z2KX2.js";
+import {
   useAutoLink,
   useMobile,
   usePure,
@@ -15,12 +21,6 @@ import {
   a,
   c
 } from "./chunk-A7R5LFMA.js";
-import {
-  AutoLink_default
-} from "./chunk-7HGX5PQF.js";
-import {
-  Icon_default
-} from "./chunk-NQ3Z2KX2.js";
 import {
   client_exports
 } from "./chunk-JDJQ3254.js";

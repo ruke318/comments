@@ -5,7 +5,7 @@ import clientConfig3 from '/Users/chenrenhuan/own/node_modules/@vuepress/plugin-
 import clientConfig4 from '/Users/chenrenhuan/own/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
 import clientConfig5 from '/Users/chenrenhuan/own/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
 import clientConfig6 from '/Users/chenrenhuan/own/node_modules/vuepress-plugin-comment2/lib/client/config.js'
-import clientConfig7 from '/Users/chenrenhuan/own/node_modules/vuepress-plugin-copy-code2/lib/client/config.js'
+import clientConfig7 from '/Users/chenrenhuan/own/node_modules/vuepress-theme-hope/node_modules/vuepress-plugin-copy-code2/lib/client/config.js'
 import clientConfig8 from '/Users/chenrenhuan/own/press/.vuepress/.temp/md-enhance/config.js'
 import clientConfig9 from '/Users/chenrenhuan/own/node_modules/vuepress-plugin-photo-swipe/lib/client/config.js'
 import clientConfig10 from '/Users/chenrenhuan/own/press/.vuepress/.temp/theme-hope/config.js'

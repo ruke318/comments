@@ -1,16 +1,16 @@
 import {
+  AutoLink_default
+} from "./chunk-7HGX5PQF.js";
+import {
+  Icon_default
+} from "./chunk-NQ3Z2KX2.js";
+import {
   useAutoLink,
   useThemeLocaleData
 } from "./chunk-MA3DN5KS.js";
 import {
   b
 } from "./chunk-A7R5LFMA.js";
-import {
-  AutoLink_default
-} from "./chunk-7HGX5PQF.js";
-import {
-  Icon_default
-} from "./chunk-NQ3Z2KX2.js";
 import {
   client_exports
 } from "./chunk-JDJQ3254.js";
@@ -77,7 +77,7 @@ var renderChildren = (children) => {
 var resolvePrefix = (prefix = "", path = "") => path.startsWith("/") ? path : `${ensureEndingSlash(prefix)}${path}`;
 
 // press/.vuepress/.temp/theme-hope/sidebar.js
-var sidebarData = { "/guide/": ["page.md", "markdown.md", "disable.md", "encrypt.md"] };
+var sidebarData = {};
 
 // node_modules/vuepress-theme-hope/lib/client/modules/sidebar/composables/resolveConfig.js
 var headerToSidebarItem = (header, headerDepth) => {
@@ -170,4 +170,4 @@ export {
   setupSidebarItems,
   useSidebarItems
 };
-//# sourceMappingURL=chunk-WVAZIVSQ.js.map
+//# sourceMappingURL=chunk-XFQJQHPT.js.map

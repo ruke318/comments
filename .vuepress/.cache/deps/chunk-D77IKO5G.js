@@ -3,7 +3,7 @@ import {
 } from "./chunk-SDTTY7UK.js";
 import {
   BloggerInfo_default
-} from "./chunk-SBWU5KR5.js";
+} from "./chunk-CO3YJ4IB.js";
 import {
   DropTransition_default
 } from "./chunk-VC4AEKQI.js";
@@ -23,4 +23,4 @@ var InfoPanel_default = InfoPanel;
 export {
   InfoPanel_default
 };
-//# sourceMappingURL=chunk-PQJ7CYNI.js.map
+//# sourceMappingURL=chunk-D77IKO5G.js.map
