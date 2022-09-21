@@ -1,6 +1,7 @@
 export const pagesRoutes = [
   ["v-8daa1a0e","/",{"title":"博客主页","icon":"home","type":"home","readingTime":{"minutes":0.83,"words":250},"excerpt":"<!-- 这是一个博客主页的案例。 要使用此布局，你应该在页面前端设置 layout: Blog 和 home: true。 相关配置文档请见 博客主页。 -->","date":"2022-09-11T14:07:04.000Z"},["/index.html","/README.md"]],
   ["v-79fdd481","/home.html",{"title":"项目主页","icon":"home","type":"home","readingTime":{"minutes":2.61,"words":782},"excerpt":"这是项目主页的案例。你可以在这里放置你的主体内容。 想要使用此布局，你需要在页面 front matter 中设置 home: true。 配置项的相关说明详见 项目主页配置。","date":"2022-09-11T14:07:04.000Z"},["/home","/home.md"]],
+  ["v-6c023efa","/posts/article/2022-09/alioss_unzip.html",{"title":"使用阿里云 oss + 云函数 实现 zip 自动解压","type":"article","readingTime":{"minutes":5.23,"words":1569},"excerpt":"<h1 id=\"使用阿里云-oss-云函数-实现-zip-自动解压\" tabindex=\"-1\"><a class=\"header-anchor\" href=\"#使用阿里云-oss-云函数-实现-zip-自动解压\" aria-hidden=\"true\">#</a> 使用阿里云 oss + 云函数 实现 zip 自动解压</h1>\n<p>前段时间，公司有个需求，商家需要批量编辑商品的图片，图片包括主图、规格图、详情图，而且都有多张；如果单纯的通过人工单个文件编辑需要耗费大量的人力，所以需要使用到批量图片上传，而需要实现该功能需要解决以下问题</p>\n","date":"2022-09-10T00:00:00.000Z","localizedDate":"2022年9月10日","category":["golang","oss"],"tag":["自动解压","oss","分片上传","云函数"]},["/posts/article/2022-09/alioss_unzip","/posts/article/2022-09/alioss_unzip.md"]],
   ["v-0a1c5cb7","/posts/article/2022-09/vuepress.html",{"title":"使用 vuepress 搭建博客，专注文档内容","type":"article","readingTime":{"minutes":2.36,"words":707},"excerpt":"<h1 id=\"使用-vuepress-搭建博客-专注文档内容\" tabindex=\"-1\"><a class=\"header-anchor\" href=\"#使用-vuepress-搭建博客-专注文档内容\" aria-hidden=\"true\">#</a> 使用 vuepress 搭建博客，专注文档内容</h1>\n<p>由于近期在开发一个外部对接的项目，公司也没有提供统一对外提供的<code v-pre>文档平台</code>，就得靠自己去找个简单明了的工具了, 一共用过两个工具 <code v-pre>gitbook</code>, <code v-pre>vuepress</code>; 两个工具都有使用，我简单介绍下这两个工具的使用</p>\n","date":"2022-09-10T00:00:00.000Z","localizedDate":"2022年9月10日","category":["vuepress","blog"],"tag":["博客"]},["/posts/article/2022-09/vuepress","/posts/article/2022-09/vuepress.md"]],
   ["v-3706649a","/404.html",{"title":"","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/404"]],
   ["v-5bc93818","/category/",{"title":"分类","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/category/index.html"]],
@@ -10,7 +11,13 @@ export const pagesRoutes = [
   ["v-d804e652","/slide/",{"title":"幻灯片","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/slide/index.html"]],
   ["v-154dc4c4","/star/",{"title":"收藏","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/star/index.html"]],
   ["v-01560935","/timeline/",{"title":"时间轴","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/timeline/index.html"]],
+  ["v-e9a125fe","/category/golang/",{"title":"golang 分类","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/category/golang/index.html"]],
+  ["v-b82a828e","/tag/%E8%87%AA%E5%8A%A8%E8%A7%A3%E5%8E%8B/",{"title":"自动解压 标签","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/tag/自动解压/","/tag/%E8%87%AA%E5%8A%A8%E8%A7%A3%E5%8E%8B/index.html"]],
+  ["v-65f39f18","/category/oss/",{"title":"oss 分类","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/category/oss/index.html"]],
+  ["v-b3094364","/tag/oss/",{"title":"oss 标签","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/tag/oss/index.html"]],
   ["v-43d7543a","/category/vuepress/",{"title":"vuepress 分类","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/category/vuepress/index.html"]],
-  ["v-3a134560","/tag/%E5%8D%9A%E5%AE%A2/",{"title":"博客 标签","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/tag/博客/","/tag/%E5%8D%9A%E5%AE%A2/index.html"]],
+  ["v-059b3584","/tag/%E5%88%86%E7%89%87%E4%B8%8A%E4%BC%A0/",{"title":"分片上传 标签","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/tag/分片上传/","/tag/%E5%88%86%E7%89%87%E4%B8%8A%E4%BC%A0/index.html"]],
   ["v-57c5dbb5","/category/blog/",{"title":"blog 分类","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/category/blog/index.html"]],
+  ["v-203adec0","/tag/%E4%BA%91%E5%87%BD%E6%95%B0/",{"title":"云函数 标签","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/tag/云函数/","/tag/%E4%BA%91%E5%87%BD%E6%95%B0/index.html"]],
+  ["v-3a134560","/tag/%E5%8D%9A%E5%AE%A2/",{"title":"博客 标签","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/tag/博客/","/tag/%E5%8D%9A%E5%AE%A2/index.html"]],
 ]
